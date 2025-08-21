@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\mongodbproject\\mongodbproject\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\mongodbproject\\mongodbproject\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\mongodbproject\\mongodbproject\\views\\order\\orderlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\views\\order\\orderlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\mongodbproject\\mongodbproject\\views\\customer\\customerlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\views\\customer\\customerlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\mongodbproject\\mongodbproject\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\mongodbproject\\mongodbproject\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\mongodbproject\\mongodbproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\mongodbproject\\mongodbproject\\views\\customer\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\views\\customer\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\mongodbproject\\mongodbproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99426B6-33C7-4742-9755-B1A6FD00DE5C}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfController.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Controllers\\PdfController.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Controllers\\PdfController.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Controllers\\PdfController.cs",
+              "RelativeToolTip": "MongoDbProject\\Controllers\\PdfController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:55:17.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelController.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Controllers\\ExcelController.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Controllers\\ExcelController.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Controllers\\ExcelController.cs",
+              "RelativeToolTip": "MongoDbProject\\Controllers\\ExcelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:55:11.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Category\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "MongoDbProject\\Views\\Category\\CategoryList.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Category\\CategoryList.cshtml",
+              "RelativeToolTip": "MongoDbProject\\Views\\Category\\CategoryList.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T20:38:05.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MongoDbProject\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MongoDbProject\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T20:30:54.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerList.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Customer\\CustomerList.cshtml",
+              "RelativeDocumentMoniker": "MongoDbProject\\Views\\Customer\\CustomerList.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Customer\\CustomerList.cshtml",
+              "RelativeToolTip": "MongoDbProject\\Views\\Customer\\CustomerList.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwDUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T20:23:47.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Customer\\CreateCustomer.cshtml",
+              "RelativeDocumentMoniker": "MongoDbProject\\Views\\Customer\\CreateCustomer.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Customer\\CreateCustomer.cshtml",
+              "RelativeToolTip": "MongoDbProject\\Views\\Customer\\CreateCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T20:23:35.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MongoDbProject\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:23:29.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderList.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Order\\OrderList.cshtml",
+              "RelativeDocumentMoniker": "MongoDbProject\\Views\\Order\\OrderList.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Views\\Order\\OrderList.cshtml",
+              "RelativeToolTip": "MongoDbProject\\Views\\Order\\OrderList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T20:21:54.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\asp net core 5.0 ad\u0131m ad\u0131m web geli\u015Ftirme\\MongoDbProject\\MongoDbProject\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MongoDbProject\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:21:38.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

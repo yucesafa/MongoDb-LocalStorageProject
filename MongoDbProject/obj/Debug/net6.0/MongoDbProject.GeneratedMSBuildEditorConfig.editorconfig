@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MongoDbProject
+build_property.RootNamespace = MongoDbProject
+build_property.ProjectDir = C:\Users\safay\OneDrive\Masaüstü\dersler\asp net core 5.0 adım adım web geliştirme\MongoDbProject\MongoDbProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\safay\OneDrive\Masaüstü\dersler\asp net core 5.0 adım adım web geliştirme\MongoDbProject\MongoDbProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Category/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Category/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Category/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Customer/CreateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Customer/CustomerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3VzdG9tZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Customer/UpdateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBkYXRlQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Excel/ExcelList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZWxcRXhjZWxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Order/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Order/OrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Order/UpdateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcVXBkYXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Pdf/PdfList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRmXFBkZkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Product/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Product/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Shared/Components/_AdminLayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0SGVhZENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Shared/Components/_AdminLayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0TmF2YmFyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Shared/Components/_AdminLayoutScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0U2NyaXB0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Shared/Components/_AdminLayoutSidebarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0U2lkZWJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safay/OneDrive/Masaüstü/dersler/asp net core 5.0 adım adım web geliştirme/MongoDbProject/MongoDbProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-23tz25c7am
